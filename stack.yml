@@ -1,6 +1,6 @@
 version: 1.0
 provider:
-  name: openfaas
+  name: faas
   gateway: https://gateway.fn.rnd.dev
 
 #   name: faas
