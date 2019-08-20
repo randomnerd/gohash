@@ -2,7 +2,6 @@ version: 1.0
 provider:
   name: faas
   gateway: https://gateway.fn.rnd.dev
-  
 functions:
   gohash:
     lang: go
