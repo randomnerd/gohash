@@ -1,0 +1,9 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: https://gateway.fn.rnd.dev
+functions:
+  gohash:
+    lang: go
+    handler: ./gohash
+    image: randomnerd/gohash:latest
