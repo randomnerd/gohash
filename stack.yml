@@ -4,6 +4,7 @@ provider:
 #   gateway: https://gateway.fn.rnd.dev
   name: faas
   gateway: http://127.0.0.1:8080
+  
 functions:
   gohash:
     lang: go
