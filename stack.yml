@@ -7,4 +7,4 @@ functions:
   gohash:
     lang: go
     handler: ./gohash
-    image: randomnerd/gohash:latest
+    image: randomnerd/gohash
